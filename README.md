@@ -9,7 +9,7 @@
 <div align="center">
   <a hr° periodoeUniversidade Federal de Lavras - Sistema de Informacao .ai/phquintiliano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phquintiliano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phquintiliano&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phquintiliano&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   
