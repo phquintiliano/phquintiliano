@@ -2,8 +2,8 @@
 
 
 
-- 📘 Estudando front-end (Origamid)
-- 📕 3° periodo Universidade Federal de Lavras - Sistema de Informacao 
+- 📘 Trabalho como front-end e SAP
+- 📕 6° periodo Universidade Federal de Lavras - Sistema de Informacao 
 
 
 <div align="center">
