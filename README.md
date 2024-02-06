@@ -2,7 +2,7 @@
 
 
 
-- 📘 Trabalho como front-end e SAP
+- 📘 Trabalho com front-end e SAP
 - 📕 6° periodo Universidade Federal de Lavras - Sistema de Informacao 
 
 
